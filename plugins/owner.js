@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   let caption = `
 *「 معلومات عن صاحب البوت 」*
 
-*Number:*\Ali Atto*_`0988109204`
+*Number:*\Ali Atto_0988109204
 *instagram:*\ninstagram.com/https://www.instagram.com/ali_m_atto
 
 
